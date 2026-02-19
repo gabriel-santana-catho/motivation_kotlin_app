@@ -1,30 +1,35 @@
 # Motivation Kotlin App 🚀
 
-Este é meu primeiro projeto desenvolvido em Kotlin.
+This is my first project developed using **Kotlin**, created as part of my journey into Android development.
 
-## 📱 Sobre o projeto
+## 📱 About the Project
 
-Aplicativo desenvolvido para praticar conceitos básicos da linguagem Kotlin e desenvolvimento Android.
+Motivation Kotlin App is a simple Android application built to practice and strengthen fundamental Kotlin concepts while exploring the basics of mobile application development.
 
-## 🛠 Tecnologias utilizadas
+The project focuses on clean code structure, readability, and applying core programming principles in a practical scenario.
 
-- Kotlin
-- Android Studio
+## 🛠 Technologies Used
 
-## 🎯 Objetivo
+* Kotlin
+* Android Studio
+* Android SDK
 
-Praticar:
-- Variáveis e tipos de dados
-- Estruturas de controle
-- Funções
-- Programação orientada a objetos
+## 🎯 Project Goals
 
-## 🚀 Como executar o projeto
+The main objectives of this project were to practice and improve:
 
-1. Clone o repositório
-2. Abra no Android Studio
-3. Execute no emulador ou dispositivo físico
+* Variables and data types
+* Control flow statements (if/else, when, loops)
+* Functions and class structures
+* Object-Oriented Programming (OOP) principles
+* Basic Android project architecture
+
+## 🚀 How to Run the Project
+
+1. Clone this repository
+2. Open the project in Android Studio
+3. Build and run the application on an emulator or physical device
 
 ---
 
-Feito com dedicação por Gabriel Santana
+Developed with dedication by **Gabriel Santana**
